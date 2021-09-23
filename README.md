@@ -14,9 +14,7 @@
 
 - JavaScript红宝书
 - 你不知道的JavaScript
-
 - 英语单词（[Qwerty Learner](https://github.com/Kaiyiwing/qwerty-learner)）
-
 - 学会写测试，尝试测试驱动开发
 
 ## 上手及使用
@@ -35,7 +33,6 @@
 
 - 已完成项目的管理：提供预览、网页浏览等
 - 考虑Github+issue+Action的融合使用，以解决和实现一些自动化功能（如：issue写博客配合github api使用）
-
 - 以 vue3.0 + vite2.0 实现自己的一个相册小项目
 - 以 serveless 为服务发布一个小程序，功能暂且定为猜谜语和脑筋急转弯
 - 以 tailwindcss 技术方向开发一个个人网站，考虑结合 SSR 共同使用
