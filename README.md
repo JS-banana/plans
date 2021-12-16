@@ -20,7 +20,6 @@
 ## 上手及使用
 
 - Next.js
-- Vue3.0
 - AlpineJs
 - Astro
 - swc编译器研究
