@@ -12,29 +12,29 @@
 
 ## 看书及提升
 
-- JavaScript红宝书
-- 你不知道的JavaScript
+- JavaScript红宝书 `30%`
+- 你不知道的JavaScript `10%`
 - 英语单词（[Qwerty Learner](https://github.com/Kaiyiwing/qwerty-learner)）
 - 学会写测试，尝试测试驱动开发
 
 ## 上手及使用
 
-- Next.js
+- Next.js `40%`
 - AlpineJs
 - Astro
 - swc编译器研究
 
 ## 开发计划
 
-- node-cli工具编写
+- node-cli工具编写 `30%`
 
 ## 奇妙点子及想法实现
 
 - 已完成项目的管理：提供预览、网页浏览等
-- 考虑Github+issue+Action的融合使用，以解决和实现一些自动化功能（如：issue写博客配合github api使用）
-- 以 vue3.0 + vite2.0 实现自己的一个相册小项目
+- 考虑Github+issue+Action的融合使用，以解决和实现一些自动化功能（如：issue写博客配合github api使用）`60%`
+- 以 vue3.0 + vite2.0 实现自己的一个相册小项目 `20%`
 - 以 serveless 为服务发布一个小程序，功能暂且定为猜谜语和脑筋急转弯
-- 以 tailwindcss 技术方向开发一个个人网站，考虑结合 SSR 共同使用
+- 以 tailwindcss 技术方向开发一个个人网站，考虑结合 SSR 共同使用 `20%`
 - 音乐播放器
 - 收藏夹、资源管理导航网站开发
 
@@ -54,7 +54,7 @@
 
 - Docker及kubernetes使用及学习
 - Go语言学习
-- Python学习
+- Python学习 `10%`
 
 ## 思考
 
