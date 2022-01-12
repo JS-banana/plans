@@ -61,6 +61,10 @@
 ## 奇妙点子及想法实现
 
 - 华为运动：跑步及其他数据的获取，完成自动统计（考虑API及数据获取的可行性）
+  - 相关资料：
+  - [开源跑步项目：running_page](https://github.com/yihong0618/running_page)
+  - [华为官方：APP Server相关文档（存在一定的限制）](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/read-sports-recording-scene-0000001050782026)
+  - [开源项目：Convert your Huawei Health sport activities and import them in Strava](https://github.com/CTHRU/Hitrava)
 - 微信消息推送内容丰富：
   - 考虑结合RSS等拓展多元数据获取
   - 考虑结合OSS云存储完成随机照片的分享推送
