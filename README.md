@@ -11,11 +11,10 @@
 > 这里计划实现一个学习状态跟踪及状态可视化统计功能，思路中~
 
 - 持续准备面试
-- 权限设计相关输出一篇实战文章
 - react-router如何监听路由
 - react在componentDidMount中setState和useEffect中setState的区别
 - react虚拟DOM与diff算法和vue的区别
-- 微前端父子、子子通信
+- 微前端父子、子子通信、rxjs实践
 - react中context上下文的使用
 - redux分析、异步中间件实现分析、redux的顶层provider作用
 - websocket连接过程，系统性分析
