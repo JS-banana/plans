@@ -79,6 +79,11 @@
   - 考虑结合RSS等拓展多元数据获取
   - 考虑结合OSS云存储完成随机照片的分享推送
 
+## 不错的工具
+
+- 代码统计 [cloc](https://github.com/AlDanial/cloc)、[git-extras（`git summary`）](https://github.com/tj/git-extras)
+- git增强 [git-extras](https://github.com/tj/git-extras)
+
 ## 思考
 
 - [Qwerty Learner](https://github.com/Kaiyiwing/qwerty-learner) 项目的一些思考：个人想法实现、持续付出执行、开源项目可用性分析及收益效果、技术提升
