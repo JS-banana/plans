@@ -11,14 +11,13 @@
 > 这里计划实现一个学习状态跟踪及状态可视化统计功能，思路中~
 
 - 持续准备面试
+- 算法 leetcode 刷题
+- 框架源码及运行原理分析
 - react-router如何监听路由
 - react在componentDidMount中setState和useEffect中setState的区别
 - react虚拟DOM与diff算法和vue的区别
 - 微前端父子、子子通信、rxjs实践
-- react中context上下文的使用
 - redux分析、异步中间件实现分析、redux的顶层provider作用
-- websocket连接过程，系统性分析
-- solidjs实现原理分析
 
 ### 看书及提升
 
