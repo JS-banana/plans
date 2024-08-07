@@ -36,6 +36,7 @@
 - Docker及kubernetes使用及学习
 - Go语言学习
 - Python学习 `10%`
+- WebGL学习
 
 ### 项目及开发计划
 
